@@ -1,6 +1,6 @@
-# swjh.io
+# Nuxt-Tailwind-PurgeCSS-Starter
 
-> My shining Nuxt.js project
+Get rid of unused CSS (Tree Shaking) with [PurgeCSS](https://www.purgecss.com/) in [Nuxt.js](https://nuxtjs.org/) with [Tailwind CSS](https://tailwindcss.com/).
 
 ## Build Setup
 
