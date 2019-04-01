@@ -1,7 +1,7 @@
 {
-  "name": "swjh.io",
+  "name": "Nuxt-Tailwind-PurgeCSS-starter",
   "version": "1.0.0",
-  "description": "My shining Nuxt.js project",
+  "description": "Nuxt-Tailwind-PurgeCSS-Starter",
   "author": "simonhermann",
   "private": true,
   "scripts": {

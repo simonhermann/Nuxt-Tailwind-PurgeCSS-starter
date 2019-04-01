@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        swjh.io
+        Nuxt + Tailwind + PurgeCSS
       </h1>
       <h2 class="subtitle">
-        My shining Nuxt.js project
+        Use the full power of tailwind, without bloating your project. No config needed.
       </h2>
       <div class="links">
         <a
