@@ -1,4 +1,4 @@
-# Nuxt-Tailwind-PurgeCSS-Starter
+# [Not maintained anymore] Nuxt-Tailwind-PurgeCSS-Starter
 
 Get rid of unused CSS (Tree Shaking) with [PurgeCSS](https://www.purgecss.com/) in [Nuxt.js](https://nuxtjs.org/) with [Tailwind CSS](https://tailwindcss.com/).
 
